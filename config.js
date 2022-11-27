@@ -7,20 +7,20 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['2349051064375']
-global.OwnerNumber = ['2349051064375']
-global.ownertag = ['2349051064375']
-global.BotName = "Ethan-v2"
+global.Owner = ['2348028472130']
+global.OwnerNumber = ['2348028472130']
+global.ownertag = ['2348028472130']
+global.BotName = "Favy"
 global.packname = "Ethan-v2"
 global.author = "By: JayJay-Ops"
-global.OwnerName = "JayJay-Ops"
-global.BotSourceCode = "https://github.com/jayjay-ops/Miku-MD"
+global.OwnerName = "Favour Himself"
+global.BotSourceCode = "https://github.com/iconplaq/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['!'] 
+global.prefa = ['-'] 
 
 
 global.location = "Edo State, Nigeria"
@@ -59,12 +59,12 @@ global.ntilink = []
 
 global.mess = {
     jobdone: 'Job done...',
-    useradmin: 'Sorry, only *Group Admins* can use this command!',
+    useradmin: 'Sorry, only *Favour and other puny admins* can use this command!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, sorry.',
+    botowner: 'Only my *Favour* can use this command, sorry.',
     grouponly: 'This command is only made for *Groups* !',
     privateonly: 'This command is only made for *Private Chat*.',
-    botonly: 'Only the *Bot itself* can use this command!',
+    botonly: 'Only the *Favour Himself* can use this command!',
     waiting: 'please wait...',
     nolink: 'Please provide me a valid *link* !',
     error: 'An error occurred!',
