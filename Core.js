@@ -2093,12 +2093,12 @@ break
 
 //=======================================
 
-/*
+
 case 'hi': case 'hello': {
-      replay(`Don't be scared, i am still active 😁`)
+       
     }
     break
-*/
+
 
 
 
