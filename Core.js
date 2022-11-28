@@ -1402,7 +1402,7 @@ for (let anju of ethanaudio){
 
 
 let smallinput = budy.toLowerCase()
-    if (smallinput.includes('hi')) {
+    if (smallinput.includes('bwess')) {
       replay(`Bwess is Life 🥺`);
     } 
 
