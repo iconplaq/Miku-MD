@@ -15,3 +15,4 @@ RUN npm install
 COPY . .
 
 CMD ["node", "."]
+EXPOSE 8080
